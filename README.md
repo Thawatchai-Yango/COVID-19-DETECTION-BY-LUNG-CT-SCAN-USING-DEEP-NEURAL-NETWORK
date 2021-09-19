@@ -1,0 +1,2 @@
+# COVID-19-DETECTION-BY-LUNG-CT-SCAN-USING-DEEP-NEURAL-NETWORK
+The system requires a user to upload a Lung CT Scan. The system then processes the file and displays the images to the user. The user then chooses which scan he or she wants to predict then the application pre-processes the Lung CT Scan and infers the image to the predictive model. The output or prediction of the model is then displayed to the user which will display Covid- 19 stage I,II and Sever stage or Non- Covid-19 to the User.
